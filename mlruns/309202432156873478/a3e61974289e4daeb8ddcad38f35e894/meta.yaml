@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/a3e61974289e4daeb8ddcad38f35e894/artifacts
+end_time: 1753384268057
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: a3e61974289e4daeb8ddcad38f35e894
+run_name: gaudy-shrew-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753384267918
+status: 3
+tags: []
+user_id: atuly

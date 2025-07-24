@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/060d2ed720424993b7a49371944f6fde/artifacts
+end_time: 1753383120622
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 060d2ed720424993b7a49371944f6fde
+run_name: nervous-crane-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383120527
+status: 3
+tags: []
+user_id: atuly

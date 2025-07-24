@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/models/m-5613cb9a3ce84d5c8550a71d78c1b901/artifacts
+creation_timestamp: 1753383682042
+experiment_id: '309202432156873478'
+last_updated_timestamp: 1753383703167
+model_id: m-5613cb9a3ce84d5c8550a71d78c1b901
+model_type: null
+name: random_forest
+source_run_id: 0572afc804ca4455a5a5d46b083e4419
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/d4e54be0ea1947879c99a4cd55cd1525/artifacts
+end_time: 1753383681679
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: d4e54be0ea1947879c99a4cd55cd1525
+run_name: defiant-pug-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383681590
+status: 3
+tags: []
+user_id: atuly

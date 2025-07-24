@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/f7fa12cbf0564de99d38fb6ceade6abf/artifacts
+end_time: 1753383592141
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: f7fa12cbf0564de99d38fb6ceade6abf
+run_name: clean-lamb-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383592051
+status: 3
+tags: []
+user_id: atuly

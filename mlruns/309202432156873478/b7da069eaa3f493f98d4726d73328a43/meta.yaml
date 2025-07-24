@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/b7da069eaa3f493f98d4726d73328a43/artifacts
+end_time: 1753384267545
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: b7da069eaa3f493f98d4726d73328a43
+run_name: nimble-sow-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753384267394
+status: 3
+tags: []
+user_id: atuly

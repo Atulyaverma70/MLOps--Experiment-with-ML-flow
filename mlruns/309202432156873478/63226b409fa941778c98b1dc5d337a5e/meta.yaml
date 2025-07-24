@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/63226b409fa941778c98b1dc5d337a5e/artifacts
+end_time: 1753383680861
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 63226b409fa941778c98b1dc5d337a5e
+run_name: smiling-dolphin-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383680766
+status: 3
+tags: []
+user_id: atuly

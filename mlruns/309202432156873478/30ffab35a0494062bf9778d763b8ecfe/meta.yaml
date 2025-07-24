@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/30ffab35a0494062bf9778d763b8ecfe/artifacts
+end_time: 1753383681780
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 30ffab35a0494062bf9778d763b8ecfe
+run_name: wise-rat-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383681689
+status: 3
+tags: []
+user_id: atuly

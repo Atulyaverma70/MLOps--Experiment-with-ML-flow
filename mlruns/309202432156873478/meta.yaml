@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478
+creation_time: 1753383116698
+experiment_id: '309202432156873478'
+last_update_time: 1753383116698
+lifecycle_stage: active
+name: breast-cancer-rf-hp

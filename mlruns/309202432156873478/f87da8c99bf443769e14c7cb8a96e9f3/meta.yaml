@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/f87da8c99bf443769e14c7cb8a96e9f3/artifacts
+end_time: 1753383121029
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: f87da8c99bf443769e14c7cb8a96e9f3
+run_name: vaunted-gnu-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383120943
+status: 3
+tags: []
+user_id: atuly

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/3491494dc9494bb688753071f62ef974/artifacts
+end_time: 1753383681276
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 3491494dc9494bb688753071f62ef974
+run_name: serious-rat-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383681183
+status: 3
+tags: []
+user_id: atuly

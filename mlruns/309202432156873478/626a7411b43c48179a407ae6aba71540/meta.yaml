@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/626a7411b43c48179a407ae6aba71540/artifacts
+end_time: 1753384269030
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 626a7411b43c48179a407ae6aba71540
+run_name: traveling-lamb-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753384268865
+status: 3
+tags: []
+user_id: atuly

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/8a841ed503484a13aebb2001c8fb66b2/artifacts
+end_time: 1753383591732
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 8a841ed503484a13aebb2001c8fb66b2
+run_name: blushing-rat-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383591622
+status: 3
+tags: []
+user_id: atuly

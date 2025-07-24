@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/f54d38b2a4ed4205912f346d55badf65/artifacts
+end_time: 1753383121397
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: f54d38b2a4ed4205912f346d55badf65
+run_name: welcoming-trout-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383121288
+status: 3
+tags: []
+user_id: atuly

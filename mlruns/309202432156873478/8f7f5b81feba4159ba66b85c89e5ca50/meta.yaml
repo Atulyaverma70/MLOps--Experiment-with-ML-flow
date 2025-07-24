@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/8f7f5b81feba4159ba66b85c89e5ca50/artifacts
+end_time: 1753383680759
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 8f7f5b81feba4159ba66b85c89e5ca50
+run_name: unique-squid-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383680657
+status: 3
+tags: []
+user_id: atuly

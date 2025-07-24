@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/b37333c9704b40418557c8c5253d5b26/artifacts
+end_time: 1753384268211
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: b37333c9704b40418557c8c5253d5b26
+run_name: rebellious-mare-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753384268067
+status: 3
+tags: []
+user_id: atuly

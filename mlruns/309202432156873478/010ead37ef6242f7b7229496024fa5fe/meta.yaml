@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/010ead37ef6242f7b7229496024fa5fe/artifacts
+end_time: 1753383120401
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 010ead37ef6242f7b7229496024fa5fe
+run_name: sedate-doe-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383120303
+status: 3
+tags: []
+user_id: atuly

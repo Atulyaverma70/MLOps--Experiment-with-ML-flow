@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/7796c73095fb4b7ab1d58cccc25ec85f/artifacts
+end_time: 1753384268386
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 7796c73095fb4b7ab1d58cccc25ec85f
+run_name: abundant-snipe-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753384268222
+status: 3
+tags: []
+user_id: atuly

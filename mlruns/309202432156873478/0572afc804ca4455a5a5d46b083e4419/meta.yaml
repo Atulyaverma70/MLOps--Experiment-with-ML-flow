@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/atuly/Desktop/MLOps/MLOps--Experiment-with-ML-flow/mlruns/309202432156873478/0572afc804ca4455a5a5d46b083e4419/artifacts
+end_time: 1753383703206
+entry_point_name: ''
+experiment_id: '309202432156873478'
+lifecycle_stage: active
+run_id: 0572afc804ca4455a5a5d46b083e4419
+run_name: bald-mule-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753383678853
+status: 3
+tags: []
+user_id: atuly
