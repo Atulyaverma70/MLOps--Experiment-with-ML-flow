@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3b02794c646b4ef5a764178e7f4e9c5d/artifacts
+end_time: 1753268796382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b02794c646b4ef5a764178e7f4e9c5d
+run_name: casual-crane-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753268796248
+status: 3
+tags: []
+user_id: atuly

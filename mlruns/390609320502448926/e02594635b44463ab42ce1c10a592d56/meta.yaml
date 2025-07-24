@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/390609320502448926/e02594635b44463ab42ce1c10a592d56/artifacts
+end_time: 1753328573531
+entry_point_name: ''
+experiment_id: '390609320502448926'
+lifecycle_stage: active
+run_id: e02594635b44463ab42ce1c10a592d56
+run_name: valuable-cat-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753328552816
+status: 3
+tags: []
+user_id: atuly

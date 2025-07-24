@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/390609320502448926/d9250a19a1f24071a5fc1d6f14287f90/artifacts
+end_time: 1753328763458
+entry_point_name: ''
+experiment_id: '390609320502448926'
+lifecycle_stage: active
+run_id: d9250a19a1f24071a5fc1d6f14287f90
+run_name: able-dolphin-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753328743502
+status: 3
+tags: []
+user_id: atuly

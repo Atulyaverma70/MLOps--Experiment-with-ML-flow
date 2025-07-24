@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/390609320502448926/9acc650b7ff44edb92c04eb8994d77a7/artifacts
+end_time: 1753328394269
+entry_point_name: ''
+experiment_id: '390609320502448926'
+lifecycle_stage: active
+run_id: 9acc650b7ff44edb92c04eb8994d77a7
+run_name: monumental-hawk-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753328373290
+status: 3
+tags: []
+user_id: atuly

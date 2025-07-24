@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/390609320502448926/556374f9eca64b908e9602bc69da45e1/artifacts
+end_time: 1753329036507
+entry_point_name: ''
+experiment_id: '390609320502448926'
+lifecycle_stage: active
+run_id: 556374f9eca64b908e9602bc69da45e1
+run_name: persistent-crab-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753329021939
+status: 3
+tags: []
+user_id: atuly
